@@ -1,0 +1,39 @@
+.navbar-brand{
+    padding: 3px 10px;
+}
+
+.home-page{
+    background-color: #fff;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+    font-size: calc(10px + 2vmin);
+    color: #fff;
+
+}
+
+h1{
+    color: #000000;
+    padding: 40px 0;
+    font-weight: bold;
+}
+
+.allTodos{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.singleTodo {
+    
+    margin: 10px 0;
+    background-color: #1496E5;
+    width: 450px;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
